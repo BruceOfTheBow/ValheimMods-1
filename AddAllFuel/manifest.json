@@ -1,0 +1,8 @@
+{
+    "name": "ComfyAddAllFuel",
+    "version_number": "1.6.2",
+    "author": "ComfyMods",
+    "description": "Comfy version of Add All Fuel and Ore removing add from containrs features.",
+    "website_url": "https://github.com/BruceOfTheBow/ComfyArmorAndQuickSlots",
+    "dependencies": [ "denikson-BepInExPack_Valheim-5.4.1901" ]
+}

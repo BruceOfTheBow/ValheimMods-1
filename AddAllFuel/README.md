@@ -60,6 +60,10 @@
 
 ## Changelog
 
+### Comfy Version Update
+
+* Removed ability to get items from nearby chests and retains only ability to batch add fuel and ore.
+
 ### 1.6.2
 
 * There was an error in the changelog for version 1.6.1, which has been corrected.
